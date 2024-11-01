@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: *.mail.protection.outlook.com
+mx: glraircraft-ca.i-v1.mx.microsoft
 max_age: 604800
